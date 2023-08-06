@@ -9,9 +9,7 @@
 
 <h1 align="center">The open-source notification infrastructure for developers</h1>
 
-<div align="center">
-The ultimate service for managing multi-channel notifications with a single API.
-</div>
+
 
   <p align="center">
     <br />
